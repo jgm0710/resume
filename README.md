@@ -21,12 +21,18 @@
 - 백엔드
   - Spring(java) : 
     - Spring Boot 활용
-    - Spring Data Jpa를 활용한 ORM 방식의 프로그램 개발
-    - QueryDsl을 활용한 동적쿼리
-    - Spring Rest Docs를 활용한 문서화
-    - Spring Security를 이용한 JWT토큰 인증 방식 API
-    - Junit5 / Junit4 fmf dldydgks 단위/통합 테스트
+    - Spring Data Jpa 를 활용한 ORM 방식의 프로그램 개발
+    - QueryDsl 을 활용한 동적쿼리
+    - Spring Rest Docs 를 활용한 문서화
+    - Spring Security 를 이용한 JWT토큰 인증 방식 API
+    - Junit5 / Junit4 를 활용한 단위/통합 테스트
   - Mysql
+
+- 배포
+  - AWS
+    - EC2
+    - RDS
+
 
 # 진행 프로젝트
 
@@ -34,13 +40,14 @@
 ---
 ### 개인 프로젝트
 ---
-- [Custom Vocabulary] (https://github.com/jgm0710/custom-vocabulary)
-  - 기술 스택 : Spring Boot, Spring Data JPA, QueryDsl, Spring Rest Docs
+- [Custom Vocabulary](https://github.com/jgm0710/custom-vocabulary)
+  - 기술 스택 : Spring Boot, Spring Data JPA, QueryDsl, Spring Rest Docs, jquery + ajax, MariaDB, AWS
   - 기간 : 2021 / 01 ~ 2021 / 03
   - 개인 프로젝트
   - 설명
-    - 자신이 단어책 등을 샀을 때, 해당 단어를 휴대하면서 외우기에 어려움이 있다는 것에서 시작
-    - PC 환경에서 해당 단어장을 생성하고 스마트폰을 활용하여 생성된 단어장을 통한 학습
-    - 자신이 생성한 단어장이 충분히 좋은 단어장이라 판단한다면, 자신의 단어장을 다른 사람들이 다운로드 받을 수 있도록 공유
-    - 공유된 단어장을 다운로드 받아 자신의 단어장 목록에 추가, 이후 학습
-    - 등의 기능을 제공하기 위한 Rest API -> Rest Docs 를 통해 문서화
+    - 자신만의 단어장을 만들어서 학습할 수 있도록 서비스를 제공
+    - REST API 기반의 프로젝트
+    - Rest Docs 를 통한 문서화 진행
+    - Junit5 를 통한 단위 테스트 및 통합 테스트 진행
+    - AWS 를 통한 배포
+    - Spring MVC 를 통해 만들어진 REST API 를 활용 -> jquery ajax 를 통해 클라이언트 프로그램 구현
