@@ -1,6 +1,5 @@
-<h1> 정구민</h1>
-<h2></h2>
-## 기본 정보
+<h1>정구민</h1>
+<h2>기본 정보</h2>
 
 - email : jgm0710@gmail.com
 - github : [https://github.com/jgm0710](https://github.com/jgm0710)
@@ -41,9 +40,13 @@
 <h1>진행 프로젝트</h1>
 
 <h2>개인 프로젝트</h2>
+
 ---
+
 <h3>개인 프로젝트</h3>
+
 ---
+
 - [Custom Vocabulary](https://github.com/jgm0710/custom-vocabulary)
   - 기술 스택 : Spring Boot, Spring Data JPA, QueryDsl, Spring Rest Docs, jquery + ajax, MariaDB, AWS RDS, GCP
   - 기간 : 2021 / 01 ~ 2021 / 03
