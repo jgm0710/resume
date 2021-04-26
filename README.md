@@ -29,6 +29,7 @@
   - Mysql
 
 - 배포
+
   -GCP
     - certbot 을 사용한 https 적용
 
