@@ -1,22 +1,23 @@
-# 정구민
+<h1> 정구민</h1>
+<h2></h2>
 ## 기본 정보
 
 - email : jgm0710@gmail.com
-- github : https://github.com/jgm0710
+- github : [https://github.com/jgm0710](https://github.com/jgm0710)
 
-## 학력
+<h2>학력</h2>
 
 - 명지전문대학교 2015/03 ~ 2021/02 컴퓨터 전자과 졸업
 
-## 경력 사항
+<h2>경력 사항</h2>
 
 - 신입
 
-## 자격 사항
+<h2>자격 사항</h2>
 
 - 없음
 
-## 기술 스택
+<h2>기술 스택</h2>
 
 - 백엔드
   - Spring(java) : 
@@ -37,11 +38,11 @@
     - Server Database 로 사용
 
 
-# 진행 프로젝트
+<h1>진행 프로젝트</h1>
 
-## 개인 프로젝트
+<h2>개인 프로젝트</h2>
 ---
-### 개인 프로젝트
+<h3>개인 프로젝트</h3>
 ---
 - [Custom Vocabulary](https://github.com/jgm0710/custom-vocabulary)
   - 기술 스택 : Spring Boot, Spring Data JPA, QueryDsl, Spring Rest Docs, jquery + ajax, MariaDB, AWS RDS, GCP
