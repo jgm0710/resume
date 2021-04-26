@@ -47,6 +47,7 @@
 
 - [Custom Vocabulary](https://github.com/jgm0710/custom-vocabulary)
   - 기술 스택 : Spring Boot, Spring Data JPA, QueryDsl, Spring Rest Docs, jquery + ajax, MariaDB, AWS RDS, GCP
+  - [API 문서 열람 링크](https://custom-vocabulary.tk/docs/index.html)
   - 기간 : 2021 / 01 ~ 2021 / 03
   - 개인 프로젝트
   - 설명
