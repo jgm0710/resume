@@ -41,11 +41,9 @@
 
 <h2>개인 프로젝트</h2>
 
----
 
 <h3>개인 프로젝트</h3>
 
----
 
 - [Custom Vocabulary](https://github.com/jgm0710/custom-vocabulary)
   - 기술 스택 : Spring Boot, Spring Data JPA, QueryDsl, Spring Rest Docs, jquery + ajax, MariaDB, AWS RDS, GCP
