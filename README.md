@@ -29,9 +29,11 @@
   - Mysql
 
 - 배포
-  - AWS
-    - EC2
-    - RDS
+  -GCP
+    - certbot 을 사용한 https 적용
+
+  -AWS RDS
+    - Server Database 로 사용
 
 
 # 진행 프로젝트
@@ -41,7 +43,7 @@
 ### 개인 프로젝트
 ---
 - [Custom Vocabulary](https://github.com/jgm0710/custom-vocabulary)
-  - 기술 스택 : Spring Boot, Spring Data JPA, QueryDsl, Spring Rest Docs, jquery + ajax, MariaDB, AWS
+  - 기술 스택 : Spring Boot, Spring Data JPA, QueryDsl, Spring Rest Docs, jquery + ajax, MariaDB, AWS RDS, GCP
   - 기간 : 2021 / 01 ~ 2021 / 03
   - 개인 프로젝트
   - 설명
@@ -49,5 +51,7 @@
     - REST API 기반의 프로젝트
     - Rest Docs 를 통한 문서화 진행
     - Junit5 를 통한 단위 테스트 및 통합 테스트 진행
-    - AWS 를 통한 배포
-    - Spring MVC 를 통해 만들어진 REST API 를 활용 -> jquery ajax 를 통해 클라이언트 프로그램 구현
+    - GCP 를 통한 배포
+    - certbot 을 사용한 https 적용
+    - AWS RDS
+    - Spring MVC 를 통해 만들어진 REST API 를 활용 -> jquery ajax 를 통해 클라이언트 프로그램 구현 중
