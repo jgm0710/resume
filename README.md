@@ -72,11 +72,20 @@
 - [Bbangduck](https://github.com/jgm0710/Bbangduck/tree/develop)
   - 기술 스택 : Spring Boot, Spring Data JPA, QueryDsl, Spring Rest Docs, Mockito 
   - [API 문서 열람 링크](http://13.125.48.96:8080/docs/index.html)
-  - 프로젝트 진행 중 
   - 설명 
     - 방탈출 리뷰 사이트를 구현하기 위한 API
       - 국내의 여러 방탈출 카페의 테마를 대상으로 리뷰를 공유하고 자신의 경험을 남길 수 있다.
-  - 담당
-    - 회원 인증, 회원 프로필 관리에 대한 API 담당
-    - 리뷰에 대한 API 담당 
+
+  - 프로젝트 진행 상황 
+    - 참여 인원 : 6
+      - 기획 - 1
+      - 디자인 - 1 
+      - 프론트 - 1 
+      - 백엔드 - 3
+    - 개발 완료 일정 - ~ 7/18 
+
+  - 담당 파트 
+    - 프로젝트 초기 세팅 및 백엔드 리딩
+    - 회원 인증 및 프로필 관리 기능 담당
+    - 리뷰 관련 기능 담당 
     - 프로젝트 배포 담당 
