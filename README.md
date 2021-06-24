@@ -69,8 +69,6 @@
 
 ## 팀 프로젝트 
 
-- 미완 
-
 - [Bbangduck](https://github.com/jgm0710/Bbangduck/tree/develop)
   - 기술 스택 : Spring Boot, Spring Data JPA, QueryDsl, Spring Rest Docs, Mockito 
   - [API 문서 열람 링크](http://13.125.48.96:8080/docs/index.html)
