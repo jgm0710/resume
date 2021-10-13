@@ -1,6 +1,8 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="40px"> Java Back-End 개발자 정구민
+# <img src="https://user-images.githubusercontent.com/62986636/137153462-22ed0b69-eec3-44b7-948a-37dca84d2998.png" width="40px"> Java Back-End 개발자 정구민
 
-# <img src="https://cdn-icons-png.flaticon.com/512/1436/1436664.png" width="35px"> 소개
+
+# <img src="https://user-images.githubusercontent.com/62986636/137153783-753f0ee3-8929-4dcd-9d8b-c7fedb2342e3.png" width="35px"> 소개
+
 
 **이름**  : 정구민
 
@@ -12,7 +14,8 @@
 
 **email**   : jgm0710@gmail.com
 
-# <img src="https://cdn-icons-png.flaticon.com/512/526/526127.png" width="30px">️ 자기소개
+# <img src="https://user-images.githubusercontent.com/62986636/137154096-71f2e611-2f6f-4699-ab61-5ab58901ab85.png" width="30px">️ 자기소개
+
 
 지속적인 발전을 위해 노력하고, 더 좋은 코드 구조와 기술 습득을 위해 끊임없이 고민하는 개발자입니다.
 
@@ -23,25 +26,31 @@
 
 기술 학습 및 실습을 통해 더 나은 개발자가 되기 위해 많이 고민하고 노력하며, 주변의 다른 개발자들과의 소통을 통해 지속적인 학습 방향성과 학습 동기를 얻고 있습니다. 
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3381/3381663.png" width="30px">&nbsp; 자격 사항
+## <img src="https://user-images.githubusercontent.com/62986636/137154361-3943bd5a-3f5b-4bfe-8a2c-82272906b4da.png" width="30px">&nbsp; 자격 사항
+
 
 - 정보처리산업기사 자격증
 
-#  <img src="https://cdn-icons-png.flaticon.com/512/1017/1017466.png" width="35px"> &nbsp;Links
+#  <img src="https://user-images.githubusercontent.com/62986636/137154654-b4809c37-e1eb-4815-b3c6-b577f242c01f.png" width="35px"> &nbsp;Links
 
-## **[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width=30px> &nbsp;Github](https://github.com/jgm0710)**
+## **[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width=30px> &nbsp;Github](https://github.com/jgm0710)**![2048px-Octicons-mark-github svg](https://user-images.githubusercontent.com/62986636/137156731-45c919a6-1132-4adc-bfba-50b2b5f24787.png)
+
 
 - 개인 프로젝트, 개인 학습, 사이드 팀 프로젝트
 
-## **[<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxrIC3%2Fbtq6AdtD8B7%2Fp2UKCrMthHKwIlNSqUkFL0%2Fimg.png" width=30px>&nbsp; 학습 정리](https://jet-fruit-d5b.notion.site/Gumin-Jeong-Leaning-record-1c7c8e105f2c41e6bc3578838eb86f56)**
+## **[<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxrIC3%2Fbtq6AdtD8B7%2Fp2UKCrMthHKwIlNSqUkFL0%2Fimg.png" width=30px>&nbsp; 학습 정리](https://jet-fruit-d5b.notion.site/Gumin-Jeong-Leaning-record-1c7c8e105f2c41e6bc3578838eb86f56)**![다운로드](https://user-images.githubusercontent.com/62986636/137156789-07a32340-fd61-45be-b0fa-31ae965c0fa9.png)
+
 
 - 개인 학습 현황 정리 및 학습 정
 
-# <img src="https://cdn-icons-png.flaticon.com/512/2502/2502261.png" width="35px">&nbsp; Skills
+# <img src="https://cdn-icons-png.flaticon.com/512/2502/2502261.png" width="35px">&nbsp; Skills![2502261](https://user-images.githubusercontent.com/62986636/137156827-70a90e48-a52d-4a27-8b48-3cd1556116a5.png)
 
-## **<img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" width="30px">&nbsp; Back-end**
 
-### <img src="https://cdn-icons.flaticon.com/png/512/1608/premium/1608848.png?token=exp=1633875609~hmac=503ff4e720ca0b804984a5e4066dafad" width="20px">&nbsp; Framework
+## **<img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" width="30px">&nbsp; Back-end**![2166823](https://user-images.githubusercontent.com/62986636/137156874-5a25da48-ee10-4900-b8a9-cd43be3851ab.png)
+
+
+### <img src="https://cdn-icons.flaticon.com/png/512/1608/premium/1608848.png?token=exp=1633875609~hmac=503ff4e720ca0b804984a5e4066dafad" width="20px">&nbsp; Framework![1608848](https://user-images.githubusercontent.com/62986636/137156920-573e43a9-a7f6-4b19-850d-44c249abd87f.png)
+
 
 #### Spring(Java)
 
@@ -71,7 +80,8 @@
   - Querydsl Jpa 를 사용한 동적 쿼리 구현 경험
 
     
-### <img src="https://cdn-icons.flaticon.com/png/512/586/premium/586293.png?token=exp=1633875678~hmac=0f26ba1e5213add35811441f3bc9cf1d" width="20px">&nbsp; Database
+### <img src="https://cdn-icons.flaticon.com/png/512/586/premium/586293.png?token=exp=1633875678~hmac=0f26ba1e5213add35811441f3bc9cf1d" width="20px">&nbsp; Database![586293](https://user-images.githubusercontent.com/62986636/137156989-b8d163b3-3cbb-43bb-8859-5b4d74d58855.png)
+
 
 #### RDBMS 
 
@@ -82,19 +92,22 @@
   - flyway
   - liquibase
   
-### <img src="https://cdn-icons.flaticon.com/png/512/2995/premium/2995522.png?token=exp=1633875767~hmac=bc3552a3954f53a5838b5b9f4b2d6d70" width="20px">&nbsp; Testings
+### <img src="https://cdn-icons.flaticon.com/png/512/2995/premium/2995522.png?token=exp=1633875767~hmac=bc3552a3954f53a5838b5b9f4b2d6d70" width="20px">&nbsp; Testings![2995522](https://user-images.githubusercontent.com/62986636/137157069-e28eacc2-b15b-4432-8f16-b8445ad1b727.png)
+
 
 - Junit, Mockito 를 사용한 테스트 코드 작성 경험
   - Mockito, Junit 을 사용한 비즈니스 로직 유닛 테스트 경험
 - H2 imMemory DB 를 테스트용 Database 로 사용
 
-### <img src="https://cdn-icons.flaticon.com/png/512/2015/premium/2015058.png?token=exp=1633875872~hmac=ce2d6fcd057ca09a9b7d9c09bbf67da7" width="20px">&nbsp; Document
+### <img src="https://cdn-icons.flaticon.com/png/512/2015/premium/2015058.png?token=exp=1633875872~hmac=ce2d6fcd057ca09a9b7d9c09bbf67da7" width="20px">&nbsp; Document![2015058](https://user-images.githubusercontent.com/62986636/137157152-96b52f00-4403-4e3a-86c4-83ba10f5fba4.png)
+
 
 - Spring Rest Docs
   - Spring MockMvc 를 기반으로 테스트 코드를 작성
   - 작성된 테스트 코드를 기반으로 API EndPoint 문서화 경험
   
 ## <img src="https://cdn-icons.flaticon.com/png/512/3097/premium/3097863.png?token=exp=1633876005~hmac=12df664643bea4a70bbefa5b4143eb3a" width="35px"> Deployments
+![3097863](https://user-images.githubusercontent.com/62986636/137157289-186c738b-a744-4726-8c75-c3b6f3af3593.png)
 
 ### <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png" width="21px">&nbsp; AWS
 
