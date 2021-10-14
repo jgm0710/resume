@@ -147,55 +147,25 @@
 
 ## <img src="https://user-images.githubusercontent.com/62986636/137323383-a09cab3e-96ef-4489-9cc2-d90703c1c8c7.png" width="25px"> 팀 프로젝트 
 
+### <img src="https://user-images.githubusercontent.com/62986636/137327105-b7945f8d-541b-493d-9a07-4857f77224a9.png" width="30px"> [Bbangduck](https://github.com/jgm0710/Bbangduck/tree/develop)
 
-- [Bbangduck](https://github.com/jgm0710/Bbangduck/tree/develop)
-  - 기술 스택 : Spring Boot, Spring Data JPA, QueryDsl, Spring Rest Docs, Mockito 
-  - [API 문서 열람 링크](http://13.125.48.96:8080/docs/index.html)
-  - 설명 
-    - 방탈출 리뷰 사이트를 구현하기 위한 API
-      - 국내의 여러 방탈출 카페의 테마를 대상으로 리뷰를 공유하고 자신의 경험을 남길 수 있다.
+#### <img src="https://user-images.githubusercontent.com/62986636/137323272-2c7d976b-5212-4782-a19b-559d265e74fe.png" width="15px"> [API 문서 열람 링크](http://13.125.48.96:8080/docs/index.html)
 
-  - 프로젝트 진행 상황 
-    - 참여 인원 : 6
+#### 인원 구성
+
+- 참여 인원 : 6
       - 기획 - 1
       - 디자인 - 1 
       - 프론트 - 1 
       - 백엔드 - 3
-    - 개발 완료 일정 - ~ 7/18 
 
-  - 담당 파트 (정구민 담당 파트) 
-    - 프로젝트 초기 세팅 및 백엔드 리딩
-      - Spring Boot 초기 설정 담당
-      - Entity 초기 설계 담당
-    - 회원 인증 기능 담당
-      - JWT 토큰을 사용하여 Access Token 발급
-      - AuthenticationEntryPoint 를 Custom 구현하여 인증되지 않은 사용자는 401 응답이 내려지도록 설정
-      - AccessDeniedHandler 를 Custom 구현하여 리소스 접근 권한이 없는 사용자는 403 응답이 내려지도록 설정
-      - 소셜 로그인 기능 구현
-        - 카카오 로그인 API 를 통한 사용자 인증 구현
-        - 네이버 로그인 API 를 통한 사용자 인증 구현
-    - 회원 프로필 관리 기능 담당
-      - 프로필 조회
-      - 프로필 수정
-    - 테마 관련 기능 담당
-      - 필터링 조건을 통한 테마 목록 조회
-      - 테마 상세 조회
-    - 리뷰 관련 기능 담당
-      - 리뷰 생성
-        - 이미지, 코멘트 등을 기입하지 않는 리뷰 생성
-      - 리뷰 상세 정보 추가
-        - 이미지, 코멘트 등을 리뷰에 추가
-      - 리뷰 설문 추가
-        - 리뷰에 테마에 대한 설문을 추가할 수 있는 기능
-      - 리뷰 수정
-      - 리뷰 상세, 목록 조회
-      - 리뷰 삭제 
-        - 실제 데이터를 삭제하지 않고 상태 값을 변경하도록 구현
-    - 파일 업로드 관련 기능 담당 
-      - 파일 업로드 기능 구현
-      - 파일 다운로드 기능 구현 
-    - 프로젝트 배포 담당 
-      - AWS EC2 를 사용하여 프로젝트 배포
-      - 로컬, Develop 환경에서의 application.yml 파일 구분
-      - Dspring.profiles.active 옵션을 사용하여 배포 환경에 따라 다른 설정 적용
-      - 로컬, Devlop DB 를 각각 사용
+#### <img src="https://user-images.githubusercontent.com/62986636/137323361-23a4ad5d-e6da-40f6-a3b5-5054349fc4b3.png" width="15px"> 프로젝트 설명
+
+
+방탈출 리뷰 사이트 구현을 위한 API
+
+전국 방탈출 카페를 취합하여 여러 사용자의 게임 경험을 공유하고 나누기 위한 리뷰 사이트 구현을 목표
+
+사용자가 원하는 장르의 테마를 찾을 수 있도록 기능 제공
+
+사용자가 플레이한 테마에 대해 사진 등이 담긴 리뷰를 작성할 수 있도록 기능 제공
