@@ -41,7 +41,7 @@
 ## **[<img src="https://user-images.githubusercontent.com/62986636/137156789-07a32340-fd61-45be-b0fa-31ae965c0fa9.png" width=30px>&nbsp; 학습 정리](https://jet-fruit-d5b.notion.site/Gumin-Jeong-Leaning-record-1c7c8e105f2c41e6bc3578838eb86f56)**
 
 
-- 개인 학습 현황 정리 및 학습 정
+- 개인 학습 현황 정리 및 학습 정리
 
 # <img src="https://user-images.githubusercontent.com/62986636/137156827-70a90e48-a52d-4a27-8b48-3cd1556116a5.png" width="35px">&nbsp; Skills
 
