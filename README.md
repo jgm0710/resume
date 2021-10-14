@@ -33,23 +33,23 @@
 
 #  <img src="https://user-images.githubusercontent.com/62986636/137154654-b4809c37-e1eb-4815-b3c6-b577f242c01f.png" width="35px"> &nbsp;Links
 
-## **[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width=30px> &nbsp;Github](https://github.com/jgm0710)**![2048px-Octicons-mark-github svg](https://user-images.githubusercontent.com/62986636/137156731-45c919a6-1132-4adc-bfba-50b2b5f24787.png)
+## **[<img src="https://user-images.githubusercontent.com/62986636/137156731-45c919a6-1132-4adc-bfba-50b2b5f24787.png" width=30px> &nbsp;Github](https://github.com/jgm0710)**
 
 
 - 개인 프로젝트, 개인 학습, 사이드 팀 프로젝트
 
-## **[<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxrIC3%2Fbtq6AdtD8B7%2Fp2UKCrMthHKwIlNSqUkFL0%2Fimg.png" width=30px>&nbsp; 학습 정리](https://jet-fruit-d5b.notion.site/Gumin-Jeong-Leaning-record-1c7c8e105f2c41e6bc3578838eb86f56)**![다운로드](https://user-images.githubusercontent.com/62986636/137156789-07a32340-fd61-45be-b0fa-31ae965c0fa9.png)
+## **[<img src="https://user-images.githubusercontent.com/62986636/137156789-07a32340-fd61-45be-b0fa-31ae965c0fa9.png" width=30px>&nbsp; 학습 정리](https://jet-fruit-d5b.notion.site/Gumin-Jeong-Leaning-record-1c7c8e105f2c41e6bc3578838eb86f56)**
 
 
 - 개인 학습 현황 정리 및 학습 정
 
-# <img src="https://cdn-icons-png.flaticon.com/512/2502/2502261.png" width="35px">&nbsp; Skills![2502261](https://user-images.githubusercontent.com/62986636/137156827-70a90e48-a52d-4a27-8b48-3cd1556116a5.png)
+# <img src="https://user-images.githubusercontent.com/62986636/137156827-70a90e48-a52d-4a27-8b48-3cd1556116a5.png" width="35px">&nbsp; Skills
 
 
-## **<img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" width="30px">&nbsp; Back-end**![2166823](https://user-images.githubusercontent.com/62986636/137156874-5a25da48-ee10-4900-b8a9-cd43be3851ab.png)
+## **<img src="https://user-images.githubusercontent.com/62986636/137156874-5a25da48-ee10-4900-b8a9-cd43be3851ab.png" width="30px">&nbsp; Back-end**
 
 
-### <img src="https://cdn-icons.flaticon.com/png/512/1608/premium/1608848.png?token=exp=1633875609~hmac=503ff4e720ca0b804984a5e4066dafad" width="20px">&nbsp; Framework![1608848](https://user-images.githubusercontent.com/62986636/137156920-573e43a9-a7f6-4b19-850d-44c249abd87f.png)
+### <img src="https://user-images.githubusercontent.com/62986636/137156920-573e43a9-a7f6-4b19-850d-44c249abd87f.png" width="20px">&nbsp; Framework
 
 
 #### Spring(Java)
@@ -80,7 +80,7 @@
   - Querydsl Jpa 를 사용한 동적 쿼리 구현 경험
 
     
-### <img src="https://cdn-icons.flaticon.com/png/512/586/premium/586293.png?token=exp=1633875678~hmac=0f26ba1e5213add35811441f3bc9cf1d" width="20px">&nbsp; Database![586293](https://user-images.githubusercontent.com/62986636/137156989-b8d163b3-3cbb-43bb-8859-5b4d74d58855.png)
+### <img src="https://user-images.githubusercontent.com/62986636/137156989-b8d163b3-3cbb-43bb-8859-5b4d74d58855.png" width="20px">&nbsp; Database
 
 
 #### RDBMS 
@@ -92,45 +92,52 @@
   - flyway
   - liquibase
   
-### <img src="https://cdn-icons.flaticon.com/png/512/2995/premium/2995522.png?token=exp=1633875767~hmac=bc3552a3954f53a5838b5b9f4b2d6d70" width="20px">&nbsp; Testings![2995522](https://user-images.githubusercontent.com/62986636/137157069-e28eacc2-b15b-4432-8f16-b8445ad1b727.png)
+### <img src="https://user-images.githubusercontent.com/62986636/137157069-e28eacc2-b15b-4432-8f16-b8445ad1b727.png" width="20px">&nbsp; Testings
 
 
 - Junit, Mockito 를 사용한 테스트 코드 작성 경험
   - Mockito, Junit 을 사용한 비즈니스 로직 유닛 테스트 경험
 - H2 imMemory DB 를 테스트용 Database 로 사용
 
-### <img src="https://cdn-icons.flaticon.com/png/512/2015/premium/2015058.png?token=exp=1633875872~hmac=ce2d6fcd057ca09a9b7d9c09bbf67da7" width="20px">&nbsp; Document![2015058](https://user-images.githubusercontent.com/62986636/137157152-96b52f00-4403-4e3a-86c4-83ba10f5fba4.png)
+### <img src="https://user-images.githubusercontent.com/62986636/137157152-96b52f00-4403-4e3a-86c4-83ba10f5fba4.png" width="20px">&nbsp; Document
 
 
 - Spring Rest Docs
   - Spring MockMvc 를 기반으로 테스트 코드를 작성
   - 작성된 테스트 코드를 기반으로 API EndPoint 문서화 경험
   
-## <img src="https://cdn-icons.flaticon.com/png/512/3097/premium/3097863.png?token=exp=1633876005~hmac=12df664643bea4a70bbefa5b4143eb3a" width="35px"> Deployments
-![3097863](https://user-images.githubusercontent.com/62986636/137157289-186c738b-a744-4726-8c75-c3b6f3af3593.png)
+## <img src="https://user-images.githubusercontent.com/62986636/137157289-186c738b-a744-4726-8c75-c3b6f3af3593.png" width="35px"> Deployments
 
-### <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png" width="21px">&nbsp; AWS
+### <img src="https://user-images.githubusercontent.com/62986636/137322907-e82d1d41-8c83-42f9-bb28-fa37ef6aafe0.png" width="21px">&nbsp; AWS
+
 
   - AWS EC2 를 사용한 프로젝트 배포 경험
   - AWS RDS 를 사용 경험
   - AWS 로드 밸런서, Route 53, Certification Manager 를 사용한 DNS 연결 및 SSL 인증서 발급 경험
   - AWS Snapshot, AMI 생성 Schedule 을 사용한 서버 백업 경험
 
-### <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="17px">&nbsp; Docker
+### <img src="https://user-images.githubusercontent.com/62986636/137322882-72a8868e-7224-4712-8894-e36b46e9e528.png" width="17px">&nbsp; Docker
+
 
   - Docker 를 사용한 Database Container 생성 경험
   - Docker Jenkins Image 를 활용한 CI/CD 환경 구축 경험
   - Dockerfile, docker-compose 를 사용한 Spring Project 배포 경험
 
-# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="35px"> 프로젝트
+# <img src="https://user-images.githubusercontent.com/62986636/137323040-555d8d52-f8c8-4e6d-ad23-ec3384f914d8.png" width="35px"> 프로젝트
 
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1077/1077012.png" width="23px"> 개인 프로젝트
 
-### <img src="https://cdn-icons.flaticon.com/png/512/4033/premium/4033323.png?token=exp=1633932315~hmac=311d9c6f1349438b4a8c28f17ade8c57" width="15px"> [Custom Vocabulary](https://github.com/jgm0710/custom-vocabulary)
-#### [<img src="https://cdn-icons.flaticon.com/png/512/3253/premium/3253267.png?token=exp=1633932368~hmac=942272b0492655d2521d4ad95dfbcafd" width="15px"> API 문서 열람 링크](http://211.226.230.172:8080/docs/index.html)
-#### <img src="https://cdn-icons-png.flaticon.com/512/3143/3143636.png" width="15px"> 기간 : 2021 / 01 ~ 2021 / 03
-#### <img src="https://cdn-icons-png.flaticon.com/512/1500/1500345.png" width="15px"> 프로젝트 설명
+## <img src="https://user-images.githubusercontent.com/62986636/137323169-7e4a6241-e435-48fe-a21e-6796fce6d176.png" width="23px"> 개인 프로젝트
+
+
+### <img src="https://user-images.githubusercontent.com/62986636/137323142-4ab9782c-a776-4c01-935b-97fa7ebb5b7b.png" width="15px"> [Custom Vocabulary](https://github.com/jgm0710/custom-vocabulary)
+
+#### [<img src="https://user-images.githubusercontent.com/62986636/137323272-2c7d976b-5212-4782-a19b-559d265e74fe.png" width="15px"> API 문서 열람 링크](http://211.226.230.172:8080/docs/index.html)
+
+#### <img src="https://user-images.githubusercontent.com/62986636/137323337-9d2180cb-01db-4008-99a7-c4a63da5c2b0.png" width="15px"> 기간 : 2021 / 01 ~ 2021 / 03
+
+#### <img src="https://user-images.githubusercontent.com/62986636/137323361-23a4ad5d-e6da-40f6-a3b5-5054349fc4b3.png" width="15px"> 프로젝트 설명
+
   
 사용자 개개인이 필요한 단어장을 만들고 다른 사용자와 공유하는 등의 활동을 지원하기 위해 구현한 API Server
 
@@ -138,7 +145,8 @@
 
 사용자들이 서로 필요한 단어장을 만들고 공유할 수 있도록, 게시판과 단어장 공유 및 다운로드 기능 제공
 
-## <img src="https://cdn-icons-png.flaticon.com/512/681/681392.png" width="25px"> 팀 프로젝트 
+## <img src="https://user-images.githubusercontent.com/62986636/137323383-a09cab3e-96ef-4489-9cc2-d90703c1c8c7.png" width="25px"> 팀 프로젝트 
+
 
 - [Bbangduck](https://github.com/jgm0710/Bbangduck/tree/develop)
   - 기술 스택 : Spring Boot, Spring Data JPA, QueryDsl, Spring Rest Docs, Mockito 
