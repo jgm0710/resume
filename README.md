@@ -129,6 +129,24 @@
   - Docker Jenkins Image 를 활용한 CI/CD 환경 구축 경험
   - Dockerfile, docker-compose 를 사용한 Spring Project 배포 경험
 
+### Jenkins CI/CD
+
+### Nginx
+
+### Certbot
+
+## Collaboration Tool
+
+### Jira
+
+### Trello
+
+### Slcak
+
+### GitHub
+
+### GitLab
+
 # <img src="https://user-images.githubusercontent.com/62986636/137323040-555d8d52-f8c8-4e6d-ad23-ec3384f914d8.png" width="35px"> 프로젝트
 
 
