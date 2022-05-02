@@ -83,9 +83,11 @@
 ### <img src="https://user-images.githubusercontent.com/62986636/137156989-b8d163b3-3cbb-43bb-8859-5b4d74d58855.png" width="20px">&nbsp; Database
 
 
-#### RDBMS 
+#### DBMS
 
-  - MySQL
+  - MySQL, MariaDB
+  - MongoDB
+  - H2 database
 
 #### DB 형상 관리
 
@@ -95,18 +97,22 @@
 ### <img src="https://user-images.githubusercontent.com/62986636/137157069-e28eacc2-b15b-4432-8f16-b8445ad1b727.png" width="20px">&nbsp; Testings
 
 
-- Junit, Mockito 를 사용한 테스트 코드 작성 경험
-  - Mockito, Junit 을 사용한 비즈니스 로직 유닛 테스트 경험
-- H2 imMemory DB 를 테스트용 Database 로 사용
+- Junit 을 사용한 테스트 코드 작성 및 테스트 자동화 구현
+- Mockito 를 사용하여 하위 계층에 대한 의존성을 제거한 Unit Test 경험
+- `@SpringBootTest` 를 사용한 응용 서비스 계층 통합 테스트 경험
+- H2 imMemoryDB, `@DataJpaTest`, `@DataMongoTest` 등을 사용한 Repository Unit Test 경험
+- mockMvc 와 `@WebMvcTest` 를 사용한 API Test 및 Rest Docs 를 사용한 API 문서화 경험
 
 ### <img src="https://user-images.githubusercontent.com/62986636/137157152-96b52f00-4403-4e3a-86c4-83ba10f5fba4.png" width="20px">&nbsp; Document
 
 
 - Spring Rest Docs
-  - Spring MockMvc 를 기반으로 테스트 코드를 작성
-  - 작성된 테스트 코드를 기반으로 API EndPoint 문서화 경험
+  - mockMvc 와 `@WebMvcTest` 를 사용하여 API test code 작성
+  - 작성된 테스트 코드를 기반으로 rest docs 문서 snippets 생성
+  - 생성된 snippets 파일을 사용하여, adoc 파일 작성 겸험
+  - 문서화가 필요한 enumerate type 에 대해 문서 자동화 코드 작성 경험
   
-## <img src="https://user-images.githubusercontent.com/62986636/137157289-186c738b-a744-4726-8c75-c3b6f3af3593.png" width="35px"> Deployments
+## <img src="https://user-images.githubusercontent.com/62986636/137157289-186c738b-a744-4726-8c75-c3b6f3af3593.png" width="35px"> DevOps
 
 ### <img src="https://user-images.githubusercontent.com/62986636/137322907-e82d1d41-8c83-42f9-bb28-fa37ef6aafe0.png" width="21px">&nbsp; AWS
 
