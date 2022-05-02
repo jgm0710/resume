@@ -153,11 +153,11 @@
 
 #### 인원 구성
 
-- 참여 인원 : 5
+- 참여 인원 : 4
     - 기획 - 1
     - 디자인 - 1 
     - 프론트 - 1 
-    - 백엔드 - 2
+    - 백엔드 - 1
 
 #### <img src="https://user-images.githubusercontent.com/62986636/137323361-23a4ad5d-e6da-40f6-a3b5-5054349fc4b3.png" width="15px"> 프로젝트 설명
 
