@@ -26,6 +26,13 @@
 
 기술 학습 및 실습을 통해 더 나은 개발자가 되기 위해 많이 고민하고 노력하며, 주변의 다른 개발자들과의 소통을 통해 지속적인 학습 방향성과 학습 동기를 얻고 있습니다. 
 
+## 이력 사항
+
+### 피플앤드테크놀러지 : 2021.08 ~
+  - 프로젝트 : [LBS Project](https://ko.wikipedia.org/wiki/%EC%9C%84%EC%B9%98_%EA%B8%B0%EB%B0%98_%EC%84%9C%EB%B9%84%EC%8A%A4)
+  - 설명 : 측위 데이터에 기반한 위치 기반 Navigation System
+  - 담당 : RESTful API 개발, DevOps
+
 ## <img src="https://user-images.githubusercontent.com/62986636/137154361-3943bd5a-3f5b-4bfe-8a2c-82272906b4da.png" width="30px">&nbsp; 자격 사항
 
 
@@ -62,22 +69,37 @@
   
   
 - Spring Boot
-
+  - spring boot 내장 톰캣을 사용한 jar file 배포 경험
   - 배포 환경에 따른 application.yml 설정 파일 분리 경험 (product, dev, local, test)
-  - AOP 기능 활용 경험
-  
+
 
 - Spring Security
+  - Session 기반 인증 처리 경험
+  - Jwt Token 기반 인증 처리 경험
 
-  - JWT 토큰을 활용한 사용자 인증 및 권한 식별 경험
+
+- Spring AOP 
+  - package path string 기반 aop 처리 경험
+  - custom annotation 기반 aop 처리 경험
+  - `@ControllerAdvice`,`@ExceptionHandler` 및 abstract exception class 를 사용한 exception aop 처리 경험
 
   
 - Spring Data Jpa
-
-  - Entity 설계 경험
-    - 요구 사항에 맞는 적절한 연관 관계 설정
+  - Aggregate 단위의 Entity 설계 경험
   - JpaRepository 사용 경험
-  - Querydsl Jpa 를 사용한 동적 쿼리 구현 경험
+  - Querydsl Jpa 사용 경험
+    - `BooleanExpression` 을 사용한 동적 쿼리 작성 경험
+    - `JpaExpressions` 를 사용한 select 절, where 절 subQuery 작성 경험
+    - `@QueryProjection` 을 사용한 View Domain 단위의 데이터 조회 경험
+    - `StringTemplate` 을 사용한 replace query custom class 구현
+    - Pagination 처리를 위한 custom class 구현
+  - JPQL 을 사용한 query 작성 경험
+  - Java Configuration file 기반 Jpa, Mybatis multi connection 연결 경험
+
+
+- Spring Data MongoDB
+  - MongoRepository 를 사용한 Document class control 경험
+  - MongoRepository 를 사용하여 해결하기 어려운 작업에 대해서는 mongoTemplate 을 사용하여 처리
 
     
 ### <img src="https://user-images.githubusercontent.com/62986636/137156989-b8d163b3-3cbb-43bb-8859-5b4d74d58855.png" width="20px">&nbsp; Database
@@ -111,41 +133,68 @@
   - 작성된 테스트 코드를 기반으로 rest docs 문서 snippets 생성
   - 생성된 snippets 파일을 사용하여, adoc 파일 작성 겸험
   - 문서화가 필요한 enumerate type 에 대해 문서 자동화 코드 작성 경험
+
   
 ## <img src="https://user-images.githubusercontent.com/62986636/137157289-186c738b-a744-4726-8c75-c3b6f3af3593.png" width="35px"> DevOps
 
 ### <img src="https://user-images.githubusercontent.com/62986636/137322907-e82d1d41-8c83-42f9-bb28-fa37ef6aafe0.png" width="21px">&nbsp; AWS
-
-
-  - AWS EC2 를 사용한 프로젝트 배포 경험
-  - AWS RDS 를 사용 경험
-  - AWS 로드 밸런서, Route 53, Certification Manager 를 사용한 DNS 연결 및 SSL 인증서 발급 경험
-  - AWS Snapshot, AMI 생성 Schedule 을 사용한 서버 백업 경험
+- AWS EC2 를 사용한 프로젝트 배포 경험
+  - OS : ubuntu
+- AWS RDS 를 사용한 DBMS 사용 경험
+- AWS S3 사용 리소스 파일 관리 경험
+- AWS 로드 밸런서, Route 53, Certification Manager 를 사용한 DNS 연결 및 SSL 인증서 발급 경험
+- AWS Snapshot, AMI 생성 Schedule 을 사용한 서버 백업 경험
 
 ### <img src="https://user-images.githubusercontent.com/62986636/137322882-72a8868e-7224-4712-8894-e36b46e9e528.png" width="17px">&nbsp; Docker
+- docker 를 사용한 database container 생성 경험
+- docker 를 사용한 [nginx & certbot setting](https://github.com/jgm0710/nginx-reverse-proxy-settings) 경험
+- docker 를 사용한 [jenkins setting](https://github.com/jgm0710/jenkins-docker) 경험
+- docker 를 사용한 [spring project](https://github.com/jgm0710/spring-dockerize) 배포 경험
+
+### [Jenkins CI/CD](https://github.com/jgm0710/jenkins-docker)
+- GitHub Webhook 을 사용한 spring project 자동 배포 경험
+- Repository Link
 
 
-  - Docker 를 사용한 Database Container 생성 경험
-  - Docker Jenkins Image 를 활용한 CI/CD 환경 구축 경험
-  - Dockerfile, docker-compose 를 사용한 Spring Project 배포 경험
+### [Nginx](https://github.com/jgm0710/nginx-reverse-proxy-settings)
+- reverse proxy server 설정 경험
+- `http -> https -> was` 라우팅 설정 경험
+- `server_name` 에 따른 라우팅 설정 경험
+- certbot 과 함께 사용하여 ssl 인증서 발급 처리 경험
 
-### Jenkins CI/CD
+### [Certbot](https://github.com/jgm0710/nginx-reverse-proxy-settings)
+- nginx 를 사용한 webroot 방식의 ssl 인증서 발급 경험
+- docker-compose entrypoint setting 을 사용하여 ssl 인증서 자동 갱신 적용 경험
 
-### Nginx
-
-### Certbot
-
-## Collaboration Tool
+## Collaboration Tools
 
 ### Jira
+- Jira template 생성 경험
+- Jira 를 사용하여 소규모 프로젝트에 대한 일정 관리 진행
 
 ### Trello
+- Trello 를 사용하여 소규모 프로젝트에 대한 일정 관리 진행
 
-### Slcak
+### Slack
+- jira plugin 을 사용하여 jira 와 연동
+- jenkins ci plugin 을 사용하여 build 알림 환경 구축 경험
+- github 와 연동하여 issue, pr 알림 환경 구축
+
+### Notion 
+- Wiki 문서 관리 및 공유
+- 개인 학습 관리
 
 ### GitHub
+- 소스 코드 관리 경험
+- milestone, issue 기능을 사용한 협업 경험
+- git flow 전략을 적용한 협업 경험
+- git commit message convention 을 적용한 협업 경험
 
 ### GitLab
+- 소스 코드 관리 경험
+- milestone, issue 기능을 사용한 협업 경험
+- git flow 전략을 적용한 협업 경험
+- git commit message convention 을 적용한 협업 경험
 
 # <img src="https://user-images.githubusercontent.com/62986636/137323040-555d8d52-f8c8-4e6d-ad23-ec3384f914d8.png" width="35px"> 프로젝트
 
