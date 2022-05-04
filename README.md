@@ -151,46 +151,62 @@
 - docker 를 사용한 [jenkins setting](https://github.com/jgm0710/jenkins-docker) 경험
 - docker 를 사용한 [spring project](https://github.com/jgm0710/spring-dockerize) 배포 경험
 
-### [Jenkins CI/CD](https://github.com/jgm0710/jenkins-docker)
+### [Jenkins CI/CD](https://github.com/jgm0710/jenkins-docker)![jenkins_logo_icon_170552](https://user-images.githubusercontent.com/62986636/166611051-f4b46c53-5a28-48d4-8cf3-92884cf4f913.png)
+
 - GitHub Webhook 을 사용한 spring project 자동 배포 경험
 - Repository Link
 
 
-### [Nginx](https://github.com/jgm0710/nginx-reverse-proxy-settings)
+### [Nginx](https://github.com/jgm0710/nginx-reverse-proxy-settings)![nginx_original_logo_icon_146413](https://user-images.githubusercontent.com/62986636/166611086-b988167c-99be-4812-8e0b-6470ce276f90.png)
+
 - reverse proxy server 설정 경험
 - `http -> https -> was` 라우팅 설정 경험
 - `server_name` 에 따른 라우팅 설정 경험
 - certbot 과 함께 사용하여 ssl 인증서 발급 처리 경험
 
-### [Certbot](https://github.com/jgm0710/nginx-reverse-proxy-settings)
+### [Certbot](https://github.com/jgm0710/nginx-reverse-proxy-settings)![17889013](https://user-images.githubusercontent.com/62986636/166611141-166b67b2-d34c-4a9e-adf3-80d2d5100b5d.png)
+
 - nginx 를 사용한 webroot 방식의 ssl 인증서 발급 경험
 - docker-compose entrypoint setting 을 사용하여 ssl 인증서 자동 갱신 적용 경험
 
-## Collaboration Tools
+## Collaboration Tools![Collaboration-80_icon-icons com_57351](https://user-images.githubusercontent.com/62986636/166611168-346974ff-cfeb-44ee-9608-e22bb8f37a60.png)
+
+
+
+![jira-icon](https://user-images.githubusercontent.com/62986636/166610867-c5b2a4d6-b882-4fe3-a248-b42e50a795e2.png)
 
 ### Jira
 - Jira template 생성 경험
 - Jira 를 사용하여 소규모 프로젝트에 대한 일정 관리 진행
 
+
+![trello_logo_icon_189227](https://user-images.githubusercontent.com/62986636/166610894-96d2b0ac-d374-4252-bc6a-4dc4741285d0.png)
+
 ### Trello
 - Trello 를 사용하여 소규모 프로젝트에 대한 일정 관리 진행
+
+
+![slack_icon_130829](https://user-images.githubusercontent.com/62986636/166610933-0a05c900-a933-4e36-808b-9f523ec2c57e.png)
 
 ### Slack
 - jira plugin 을 사용하여 jira 와 연동
 - jenkins ci plugin 을 사용하여 build 알림 환경 구축 경험
 - github 와 연동하여 issue, pr 알림 환경 구축
 
-### Notion 
+### ![notion_logo_icon_145025](https://user-images.githubusercontent.com/62986636/166610954-5cfb04ae-9c6a-44cb-b11f-8bcf110f2126.png)
+Notion 
 - Wiki 문서 관리 및 공유
 - 개인 학습 관리
 
-### GitHub
+### GitHub![github-logo_icon-icons com_73546](https://user-images.githubusercontent.com/62986636/166611014-199586cd-08e3-4a38-b00f-2b79b64098ed.png)
+
 - 소스 코드 관리 경험
 - milestone, issue 기능을 사용한 협업 경험
 - git flow 전략을 적용한 협업 경험
 - git commit message convention 을 적용한 협업 경험
 
-### GitLab
+### GitLab![gitlab_original_logo_icon_146503](https://user-images.githubusercontent.com/62986636/166610990-c0bf86f2-3d93-41ad-9527-18d30f22f70c.png)
+
 - 소스 코드 관리 경험
 - milestone, issue 기능을 사용한 협업 경험
 - git flow 전략을 적용한 협업 경험
