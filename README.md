@@ -260,6 +260,12 @@
 
 ## Interesting
 
+최근 학습 관심사에 대해서 간단하게 정리합니다.
+
+### TDD
+
 ### DDD Architecture
 
 ### MSA Architecture
+
+### Gradle Multi Module
