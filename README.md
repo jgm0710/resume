@@ -154,7 +154,6 @@
 ### <img src="https://user-images.githubusercontent.com/62986636/166611051-f4b46c53-5a28-48d4-8cf3-92884cf4f913.png" width="19">&nbsp; [Jenkins CI/CD](https://github.com/jgm0710/jenkins-docker)
 
 - GitHub Webhook 을 사용한 spring project 자동 배포 경험
-- Repository Link
 
 
 ### <img src="https://user-images.githubusercontent.com/62986636/166611086-b988167c-99be-4812-8e0b-6470ce276f90.png" width="22">&nbsp; [Nginx](https://github.com/jgm0710/nginx-reverse-proxy-settings)
