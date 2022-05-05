@@ -12,7 +12,7 @@
 
 **대학 & 전공**   : 명지전문대학교 컴퓨터전자과
 
-**email**   : jgm0710@gmail.com
+**Email**   : jgm0710@gmail.com
 
 # <img src="https://user-images.githubusercontent.com/62986636/137154096-71f2e611-2f6f-4699-ab61-5ab58901ab85.png" width="30px">️ 자기소개
 
@@ -256,3 +256,10 @@
 사용자가 원하는 장르의 테마를 찾을 수 있도록 기능 제공
 
 사용자가 플레이한 테마에 대해 사진 등이 담긴 리뷰를 작성할 수 있도록 기능 제공
+
+
+## Interesting
+
+### DDD Architecture
+
+### MSA Architecture
